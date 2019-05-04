@@ -1,8 +1,11 @@
 # ProgrammingLanguageStudy
 :basketball:我的编程语言学习资料与程序笔记资源
 
-吴甜甜
+
+>吴甜甜  
 个人博客：  wutiantian.github.io
+
+
 ---
 
 ProgrammingLanguageStudy仓库储存我的编程语言学习资料与程序笔记资源
@@ -55,7 +58,7 @@ ProgrammingLanguageStudy仓库储存我的编程语言学习资料与程序笔�
 Firefly AIO RK3399的双路视频信号输入信号安卓程序触摸屏编写。
 
 - 【2018年】Python语言  &   Micro Python  
-学习资料：（免费，质量高）廖雪峰https://www.liaoxuefeng.com/wiki，有文本叙述也有动图。文字较多情况相对于纯看视频的速度快，有些熟悉章节可快速跳过。
+学习资料：（免费，质量高）廖雪峰 https://www.liaoxuefeng.com/wiki ， 有文本叙述也有动图。文字较多情况相对于纯看视频的速度快，有些熟悉章节可快速跳过。
 应用：ESP32物联网模块，实现机械臂（包含机器学习方法舵机标定、交叉领域机械臂运动学控制的正向运动学、逆向运动学。注意，此处有免费公开配套全过程文档，并没有花费太多时间。
 
 - 【2019年】Java 9 语言 & Android 系统  
