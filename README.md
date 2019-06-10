@@ -46,7 +46,7 @@ ProgrammingLanguageStudy仓库储存我的编程语言学习资料与程序笔�
 应用：正点原子stm32f103新战舰开发板（朋友买的400元毕设用完送我的），运行了提供代码的几十套demo程序。STM8点灯。
 
 
-- 【2018年】Markdown 语法  & Pro git 语法
+- 【2018年】Markdown 语法  & Pro git 语法  
 学习资料：MarkdownPad 2软件说明手册、《Pro git》官方说明手册
 应用：Processon在线思维导图语法编辑、github等博客网站编辑、Pro git 高级团队合作功能应用 。
 
